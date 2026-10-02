@@ -1,0 +1,566 @@
+LGA_Code,LGA_Name,Area_Weighted_Remoteness_Score,LGA_Total_Area_SQKM,Dominant_Remoteness,Dominant_Remoteness_Score,Dominant_Remoteness_Pct
+10050,Albury,1,305.6386,Inner Regional Australia,1,100
+10900,Blue Mountains,0.893448263,1431.1442,Inner Regional Australia,1,83.31295337
+11500,Campbelltown (NSW),0.364167435,311.4117,Major Cities of Australia,0,63.58325651
+15050,Maitland,0.453487775,391.5089,Major Cities of Australia,0,54.65122249
+14900,Liverpool,0.26857648,305.7401,Major Cities of Australia,0,73.14235195
+11650,Central Coast (NSW),0.680817837,1681.0059,Inner Regional Australia,1,68.08178365
+11720,Cessnock,0.915036455,1965.1593,Inner Regional Australia,1,91.50364553
+13340,Greater Hume Shire,1.44605795,5749.3875,Inner Regional Australia,1,55.39420503
+10180,Armidale Regional,1.900452691,7809.4406,Outer Regional Australia,2,90.04526906
+14350,Kempsey,1.551005631,3375.6704,Outer Regional Australia,2,55.10056314
+14170,Inner West,0,35.2115,Major Cities of Australia,0,100
+14220,Inverell,2,9404.7564,Outer Regional Australia,2,100
+11450,Camden,0.098644455,201.5278,Major Cities of Australia,0,90.1355545
+11400,Cabonne,1.69706752,6022.3496,Outer Regional Australia,2,69.706752
+13800,Hawkesbury,1.314035649,2775.1378,Inner Regional Australia,1,54.41990664
+12380,Cumberland,0,72.7496,Major Cities of Australia,0,100
+16260,Parramatta,0,83.8303,Major Cities of Australia,0,100
+10250,Ballina,1,484.9692,Inner Regional Australia,1,100
+14850,Lismore,1,1287.7042,Inner Regional Australia,1,100
+14000,Hornsby,0.687747205,455.0374,Inner Regional Australia,1,68.7747205
+17420,The Hills Shire,0.565300552,386.1583,Inner Regional Australia,1,56.53005516
+10750,Blacktown,0,238.8471,Major Cities of Australia,0,100
+11570,Canterbury-Bankstown,0,110.2374,Major Cities of Australia,0,100
+10300,Balranald,2.856757314,21690.7493,Remote Australia,3,85.67573136
+18450,Wollongong,0.610677274,684.3076,Inner Regional Australia,1,61.06772744
+10470,Bathurst Regional,1.358932356,3817.8645,Inner Regional Australia,1,64.1067644
+14870,Lithgow,1.544427299,4512.2561,Outer Regional Australia,2,54.44272988
+12850,Fairfield,0,101.5072,Major Cities of Australia,0,100
+12390,Dubbo Regional,1.967151905,7534.5251,Outer Regional Australia,2,96.71519045
+10500,Bayside (NSW),0,50.6204,Major Cities of Australia,0,100
+14400,Kiama,0.886577781,257.6638,Inner Regional Australia,1,88.65777808
+16380,Port Macquarie-Hastings,1.530618322,3682.3915,Outer Regional Australia,2,53.06183224
+14100,Hunters Hill,0,5.7169,Major Cities of Australia,0,100
+14650,Lake Macquarie,0.352840323,648.6393,Major Cities of Australia,0,64.71596772
+11520,Canada Bay,0,19.9239,Major Cities of Australia,0,100
+12930,Georges River,0,38.3375,Major Cities of Australia,0,100
+14700,Lane Cove,0,10.4789,Major Cities of Australia,0,100
+11300,Burwood,0,7.1282,Major Cities of Australia,0,100
+14500,Ku-ring-gai,0,85.4093,Major Cities of Australia,0,100
+10550,Bega Valley,2,6278.5013,Outer Regional Australia,2,100
+12750,Eurobodalla,1.668794236,3428.1695,Outer Regional Australia,2,66.87942355
+17040,Snowy Monaro Regional,1.815344002,15164.7904,Outer Regional Australia,2,81.53440024
+15990,Northern Beaches,0.179338744,254.2072,Major Cities of Australia,0,82.06612559
+10600,Bellingen,1.538099608,1600.4338,Outer Regional Australia,2,53.80996077
+15700,Nambucca Valley,1.381265116,1491.3431,Inner Regional Australia,1,61.8734884
+10650,Berrigan,1.707556528,2065.8878,Outer Regional Australia,2,70.75565285
+13310,Goulburn Mulwaree,1.211197357,3220.0796,Inner Regional Australia,1,78.88026433
+16490,Queanbeyan-Palerang Regional,1.355436724,5319.0075,Inner Regional Australia,1,61.83794815
+14950,Lockhart,1.916712034,2895.8049,Outer Regional Australia,2,91.6712034
+17640,Upper Lachlan Shire,1.389391738,7127.3957,Inner Regional Australia,1,61.06082619
+13910,Hilltops,1.596890246,7140.8865,Outer Regional Australia,2,59.6890246
+10800,Bland,2.122922632,8557.6536,Outer Regional Australia,2,87.70773685
+12000,Coolamon,1.813924632,2430.9037,Outer Regional Australia,2,81.39246322
+11730,Clarence Valley,1.644831181,10428.6804,Outer Regional Australia,2,64.48311811
+11600,Carrathool,2.727523642,18934.4853,Remote Australia,3,72.75236417
+11800,Coffs Harbour,1,1173.7435,Inner Regional Australia,1,100
+10850,Blayney,1.28925935,1524.647,Inner Regional Australia,1,71.07406501
+12350,Cowra,1.810125962,2808.7821,Outer Regional Australia,2,81.01259617
+14300,Junee,1.538358201,2030.0222,Outer Regional Australia,2,53.83582012
+12700,Dungog,1.474234936,2249.9983,Inner Regional Australia,1,52.57650639
+12870,Federation,1.771814363,5684.9253,Outer Regional Australia,2,77.18143632
+13010,Glen Innes Severn,1.998152729,5479.977,Outer Regional Australia,2,99.81527295
+15240,Mid-Coast,1.394434148,10053.8633,Inner Regional Australia,1,60.55658525
+11350,Byron,1,565.8027,Inner Regional Australia,1,100
+16610,Richmond Valley,1.38675374,3047.3748,Inner Regional Australia,1,61.32462604
+10950,Bogan,3.044448518,14599.8996,Remote Australia,3,95.5551482
+14600,Lachlan,2.884544462,14968.2539,Remote Australia,3,88.45444625
+11200,Brewarrina,3.95317125,19162.0296,Very Remote Australia,4,95.31712497
+11750,Cobar,3.694022237,45575.3512,Very Remote Australia,4,69.40222372
+12160,Cootamundra-Gundagai Regional,1.522977999,3981.4172,Outer Regional Australia,2,52.29779989
+11150,Bourke,4,41598.3722,Very Remote Australia,4,100
+11250,Broken Hill,2,170.1153,Outer Regional Australia,2,100
+14550,Kyogle,1.562632058,3584.1829,Outer Regional Australia,2,56.26320576
+12730,Edward River,1.983879218,8883.4463,Outer Regional Australia,2,98.38792181
+14920,Liverpool Plains,1.998927422,5082.2398,Outer Regional Australia,2,99.89274217
+12900,Forbes,2,4710.128,Outer Regional Australia,2,100
+14750,Leeton,2,1167.1876,Outer Regional Australia,2,100
+15270,Mid-Western Regional,1.991959516,8752.2589,Outer Regional Australia,2,99.19595157
+12950,Gilgandra,2,4831.5057,Outer Regional Australia,2,100
+13450,Griffith,2,1639.1732,Outer Regional Australia,2,100
+12150,Coonamble,2.994448416,9916.0535,Remote Australia,3,99.44484164
+13850,Hay,2.999052528,11325.9324,Remote Australia,3,99.90525283
+13550,Gunnedah,2,4987.0295,Outer Regional Australia,2,100
+13660,Gwydir,2,9259.6544,Outer Regional Australia,2,100
+15560,Murrumbidgee,2,6880.7902,Outer Regional Australia,2,100
+17310,Tamworth Regional,1.903985345,9884.3505,Outer Regional Australia,2,90.39853453
+11700,Central Darling,4,53492.193,Very Remote Australia,4,100
+15300,Moree Plains,2.592994271,17902.7033,Remote Australia,3,59.29942714
+15350,Mosman,0,8.6503,Major Cities of Australia,0,100
+15950,North Sydney,0,10.491,Major Cities of Australia,0,100
+15520,Murray River,2.137996937,11863.0162,Outer Regional Australia,2,83.3847188
+15650,Muswellbrook,1.611520668,3404.8841,Outer Regional Australia,2,61.15206682
+15750,Narrabri,2.276993403,13014.9937,Outer Regional Australia,2,72.30065966
+15800,Narrandera,2,4116.3458,Outer Regional Australia,2,100
+15850,Narromine,2,5261.5165,Outer Regional Australia,2,100
+15900,Newcastle,0,186.7255,Major Cities of Australia,0,100
+16100,Oberon,1.452374466,3625.047,Inner Regional Australia,1,54.76255342
+16150,Orange,1,284.2159,Inner Regional Australia,1,100
+16200,Parkes,2,5957.6137,Outer Regional Australia,2,100
+16350,Penrith,0.166307019,404.7021,Major Cities of Australia,0,83.36929806
+16400,Port Stephens,0.859887933,858.4357,Inner Regional Australia,1,85.98879334
+16550,Randwick,0,36.331,Major Cities of Australia,0,100
+16700,Ryde,0,40.4746,Major Cities of Australia,0,100
+16900,Shellharbour,0.324167282,147.4208,Major Cities of Australia,0,67.58327183
+16950,Shoalhaven,1,4567.2011,Inner Regional Australia,1,100
+17000,Singleton,1.488573976,4892.7168,Inner Regional Australia,1,51.14260241
+17100,Strathfield,0,14.0008,Major Cities of Australia,0,100
+17150,Sutherland Shire,0.603681389,333.5806,Inner Regional Australia,1,60.36813891
+17200,Sydney,0,26.6762,Major Cities of Australia,0,100
+19399,Unincorporated NSW,3.464708213,93208.9194,Remote Australia,3,53.52879716
+17350,Temora,2,2802.0159,Outer Regional Australia,2,100
+17400,Tenterfield,2,7324.3072,Outer Regional Australia,2,100
+17080,Snowy Valleys,1.882824847,8958.9215,Outer Regional Australia,2,88.28248467
+17550,Tweed,0.865421564,1307.7853,Inner Regional Australia,1,86.54215642
+17620,Upper Hunter Shire,1.946264004,8096.0889,Outer Regional Australia,2,94.62640041
+17650,Uralla,1.87642521,3226.5327,Outer Regional Australia,2,87.64252103
+17750,Wagga Wagga,1.347383851,4824.4888,Inner Regional Australia,1,65.26161487
+17850,Walcha,2,6261.0243,Outer Regional Australia,2,100
+17900,Walgett,3.080839177,22308.2528,Remote Australia,3,91.91608229
+17950,Warren,2.882864249,10753.7672,Remote Australia,3,88.28642487
+18020,Warrumbungle Shire,2.112643282,12372.12,Outer Regional Australia,2,88.73567182
+18050,Waverley,0,9.3506,Major Cities of Australia,0,100
+18100,Weddin,2,3414.8566,Outer Regional Australia,2,100
+18200,Wentworth,2.987718711,26255.9338,Remote Australia,3,98.77187114
+18250,Willoughby,0,22.4257,Major Cities of Australia,0,100
+18350,Wingecarribee,1.033597853,2689.3415,Inner Regional Australia,1,96.64021471
+18400,Wollondilly,0.955442991,2555.4341,Inner Regional Australia,1,95.54429911
+18500,Woollahra,0,12.2584,Major Cities of Australia,0,100
+18710,Yass Valley,0.98210288,3995.017,Inner Regional Australia,1,96.86740006
+19499,No usual address (NSW),null,null,No usual address (NSW),9,null
+19799,Migratory - Offshore - Shipping (NSW),null,null,Migratory - Offshore - Shipping (NSW),5,null
+20110,Alpine,1.786200097,4788.157,Outer Regional Australia,2,78.62000974
+20260,Ararat,1.603843037,4211.1172,Outer Regional Australia,2,60.38430372
+25490,Moyne,1.536266743,5481.686,Outer Regional Australia,2,53.62667435
+20570,Ballarat,1,739.0321,Inner Regional Australia,1,100
+20660,Banyule,0,62.5402,Major Cities of Australia,0,100
+20740,Bass Coast,1,865.8094,Inner Regional Australia,1,100
+20830,Baw Baw,1.219442597,4027.6287,Inner Regional Australia,1,78.05574034
+20910,Bayside (Vic.),0,37.2111,Major Cities of Australia,0,100
+21010,Benalla,1.146086409,2352.6398,Inner Regional Australia,1,85.3913591
+21110,Boroondara,0,60.1776,Major Cities of Australia,0,100
+21180,Brimbank,0,123.3991,Major Cities of Australia,0,100
+22250,Gannawarra,2,3737.5979,Outer Regional Australia,2,100
+21270,Buloke,2,7998.247,Outer Regional Australia,2,100
+21370,Campaspe,1.029106434,4519.073,Inner Regional Australia,1,97.0893566
+21450,Cardinia,0.698993838,1282.5671,Inner Regional Australia,1,69.89938382
+21610,Casey,0.097446759,409.4287,Major Cities of Australia,0,90.25532406
+21670,Central Goldfields,1,1532.7843,Inner Regional Australia,1,100
+22910,Hepburn,1,1472.9843,Inner Regional Australia,1,100
+21750,Colac Otway,1.263917067,3437.47,Inner Regional Australia,1,73.60829331
+21830,Corangamite,1.530487475,4407.492,Outer Regional Australia,2,53.04874745
+22410,Glenelg,2,6218.7884,Outer Regional Australia,2,100
+21890,Darebin,0,53.4712,Major Cities of Australia,0,100
+22110,East Gippsland,2.330345117,20939.5016,Outer Regional Australia,2,66.96548833
+29399,Unincorporated Vic,1.979271889,283.1903,Outer Regional Australia,2,97.98937322
+22170,Frankston,0,129.5981,Major Cities of Australia,0,100
+22310,Glen Eira,0,38.6908,Major Cities of Australia,0,100
+22490,Golden Plains,1,2703.3899,Inner Regional Australia,1,100
+22620,Greater Bendigo,1,2999.9717,Inner Regional Australia,1,100
+22670,Greater Dandenong,0,129.5466,Major Cities of Australia,0,100
+22750,Greater Geelong,0.742776769,1247.9872,Inner Regional Australia,1,74.27767689
+22830,Greater Shepparton,1,2421.9092,Inner Regional Australia,1,100
+22980,Hindmarsh,2.431481465,7524.1823,Outer Regional Australia,2,56.85185352
+23110,Hobsons Bay,0,64.2405,Major Cities of Australia,0,100
+23190,Horsham,2,4266.769,Outer Regional Australia,2,100
+23270,Hume,0.170800843,503.8488,Major Cities of Australia,0,82.91991566
+23350,Indigo,1,2040.471,Inner Regional Australia,1,100
+26700,Wangaratta,1.374383174,3645.1096,Inner Regional Australia,1,62.56168264
+23430,Kingston (Vic.),0,91.3676,Major Cities of Australia,0,100
+23670,Knox,0,113.9114,Major Cities of Australia,0,100
+23810,Latrobe (Vic.),1,1425.613,Inner Regional Australia,1,100
+23940,Loddon,1.698566539,6696.4447,Outer Regional Australia,2,69.85665393
+24130,Macedon Ranges,1,1748.284,Inner Regional Australia,1,100
+24210,Manningham,0.062875448,113.3479,Major Cities of Australia,0,93.71245519
+24250,Mansfield,1.994977618,3843.8535,Outer Regional Australia,2,99.49776182
+24330,Maribyrnong,0,31.2258,Major Cities of Australia,0,100
+24410,Maroondah,0,61.4097,Major Cities of Australia,0,100
+24600,Melbourne,0,37.5452,Major Cities of Australia,0,100
+24650,Melton,0.214569431,527.5374,Major Cities of Australia,0,78.54305685
+24780,Mildura,2.285725414,22081.9206,Outer Regional Australia,2,71.42745862
+24850,Mitchell,0.980262422,2862.0837,Inner Regional Australia,1,98.02624221
+24900,Moira,1.18344648,4045.9201,Inner Regional Australia,1,81.65535202
+24970,Monash,0,81.4829,Major Cities of Australia,0,100
+25060,Moonee Valley,0,43.1384,Major Cities of Australia,0,100
+25150,Moorabool,0.99118121,2110.5504,Inner Regional Australia,1,99.11812104
+25250,Moreland,0,50.9522,Major Cities of Australia,0,100
+25340,Mornington Peninsula,0.34316788,723.992,Major Cities of Australia,0,65.68321197
+25430,Mount Alexander,1,1529.6183,Inner Regional Australia,1,100
+25620,Murrindindi,1.210936322,3879.7505,Inner Regional Australia,1,78.90636782
+25710,Nillumbik,0.598341388,432.3373,Inner Regional Australia,1,59.83413876
+25810,Northern Grampians,1.932983913,5729.8765,Outer Regional Australia,2,93.29839134
+25900,Port Phillip,0,20.6141,Major Cities of Australia,0,100
+25990,Pyrenees,1.211579929,3434.5687,Inner Regional Australia,1,78.84200715
+26080,Queenscliffe,1,8.6166,Inner Regional Australia,1,100
+26170,South Gippsland,1.261878367,3296.3307,Inner Regional Australia,1,73.81216332
+26260,Southern Grampians,1.970192915,6654.0186,Outer Regional Australia,2,97.01929147
+26350,Stonnington,0,25.651,Major Cities of Australia,0,100
+26430,Strathbogie,1,3303.2568,Inner Regional Australia,1,100
+26490,Surf Coast,0.984824308,1552.944,Inner Regional Australia,1,98.48243079
+26610,Swan Hill,2,6115.5373,Outer Regional Australia,2,100
+26670,Towong,1.943911187,6675.1725,Outer Regional Australia,2,94.39111873
+26730,Warrnambool,1,120.9487,Inner Regional Australia,1,100
+26810,Wellington,1.71673079,10817.4231,Outer Regional Australia,2,69.70569174
+26890,West Wimmera,2.160065168,9108.6794,Outer Regional Australia,2,83.99348318
+26980,Whitehorse,0,64.2801,Major Cities of Australia,0,100
+27070,Whittlesea,0.411038286,489.6938,Major Cities of Australia,0,58.89617144
+27170,Wodonga,1,433.0021,Inner Regional Australia,1,100
+27260,Wyndham,0.532854893,542.0943,Inner Regional Australia,1,53.28548926
+27450,Yarra Ranges,0.833652607,2468.2052,Inner Regional Australia,1,83.36526072
+27350,Yarra,0,19.5421,Major Cities of Australia,0,100
+27630,Yarriambiack,2.285961377,7325.797,Outer Regional Australia,2,71.40386227
+29499,No usual address (Vic.),null,null,No usual address (Vic.),9,null
+29799,Migratory - Offshore - Shipping (Vic.),null,null,Migratory - Offshore - Shipping (Vic.),5,null
+30250,Aurukun,4,7423.9891,Very Remote Australia,4,100
+37010,Townsville,2,3730.8199,Outer Regional Australia,2,100
+30410,Barcaldine,4,53382.654,Very Remote Australia,4,100
+30300,Balonne,3.548553515,31104.0851,Very Remote Australia,4,54.85535146
+36820,Tablelands,2.755039691,11292.8695,Remote Australia,3,75.50396912
+30370,Banana,2.568899026,28550.1626,Remote Australia,3,56.88990262
+36960,Torres Strait Island,4,490.0453,Very Remote Australia,4,100
+36950,Torres,4,883.7402,Very Remote Australia,4,100
+35780,Northern Peninsula Area,4,1052.0676,Very Remote Australia,4,100
+30450,Barcoo,4,61830.1679,Very Remote Australia,4,100
+32270,Central Highlands (Qld),2.97584594,59834.8359,Remote Australia,3,69.0674188
+34590,Logan,0.350777079,958.1333,Major Cities of Australia,0,64.92229213
+30760,Blackall Tambo,4,30537.248,Very Remote Australia,4,100
+30900,Boulia,4,60906.4695,Very Remote Australia,4,100
+31000,Brisbane,0.569516904,1342.7173,Major Cities of Australia,0,70.12001707
+36510,Scenic Rim,1.038791456,4243.0014,Inner Regional Australia,1,94.42542725
+33980,Isaac,3.158498893,58707.9192,Remote Australia,3,62.81167601
+34860,Maranoa,3.329577192,58719.3449,Remote Australia,3,66.77651354
+35760,North Burnett,2.239288584,19669.8489,Outer Regional Australia,2,76.07114155
+37340,Whitsunday,2.785788328,23818.9729,Remote Australia,3,76.81820613
+31750,Bulloo,4,73722.0101,Very Remote Australia,4,100
+31820,Bundaberg,1.420784449,6431.0889,Inner Regional Australia,1,57.92155509
+31900,Burdekin,2.33830731,5043.9318,Outer Regional Australia,2,66.16926898
+31950,Burke,4,39681.2234,Very Remote Australia,4,100
+35010,Moreton Bay,0.5774334,2041.4737,Inner Regional Australia,1,57.74334002
+36720,Sunshine Coast,0.684412314,2253.8522,Inner Regional Australia,1,68.44123142
+32080,Cairns,2,1689.3227,Outer Regional Australia,2,100
+33360,Gladstone,1.963696689,10484.2861,Outer Regional Australia,2,84.67611734
+36910,Toowoomba,1.397184223,12957.2103,Inner Regional Australia,1,60.28157774
+32260,Cassowary Coast,2.591185335,4687.824,Outer Regional Australia,2,49.58599128
+32250,Carpentaria,4,64121.0123,Very Remote Australia,4,100
+32310,Charters Towers,3.368465219,68382.1644,Remote Australia,3,60.97546746
+32330,Cherbourg,1,31.6002,Inner Regional Australia,1,100
+37310,Western Downs,2.323951872,37922.5007,Outer Regional Australia,2,61.16614351
+32450,Cloncurry,3.999691815,47971.2595,Very Remote Australia,4,99.96918155
+32500,Cook,3.926196662,105717.7521,Very Remote Australia,4,92.61966619
+34570,Lockhart River,4,3576.6839,Very Remote Australia,4,100
+35670,Napranum,4,2004.3468,Very Remote Australia,4,100
+33620,Gympie,1.369320175,6883.9781,Inner Regional Australia,1,63.06798245
+32600,Croydon,4,29497.9025,Very Remote Australia,4,100
+32750,Diamantina,4,94722.429,Very Remote Australia,4,100
+32770,Doomadgee,4,1827.6518,Very Remote Australia,4,100
+32810,Douglas,2.744950394,2427.8626,Remote Australia,3,74.49503938
+36580,Somerset,1.379928308,5373.4335,Inner Regional Australia,1,62.00716916
+33100,Etheridge,4,39199.2956,Very Remote Australia,4,100
+36370,Rockhampton,1.644724285,6570.2667,Outer Regional Australia,2,64.47242849
+34530,Livingstone,2.318111328,11757.8686,Remote Australia,3,42.99203089
+33200,Flinders (Qld),4,41199.9375,Very Remote Australia,4,100
+34580,Lockyer Valley,1,2269.0054,Inner Regional Australia,1,100
+33430,Gold Coast,0.362828468,1333.386,Major Cities of Australia,0,63.71715317
+33220,Fraser Coast,1.651801867,7104.5984,Inner Regional Australia,1,58.35465239
+33610,Goondiwindi,2.275803163,19265.7098,Outer Regional Australia,2,72.4196837
+33800,Hinchinbrook,2.679012481,2807.1889,Remote Australia,3,66.70021031
+33830,Hope Vale,3,1111.7099,Remote Australia,3,100
+34710,Longreach,4,40572.2442,Very Remote Australia,4,100
+33960,Ipswich,0.582059415,1093.8562,Inner Regional Australia,1,58.20594151
+36630,South Burnett,1.829400035,8381.558,Outer Regional Australia,2,82.94000352
+34420,Kowanyama,4,2555.3325,Very Remote Australia,4,100
+34770,Mackay,1.968465538,7613.2963,Outer Regional Australia,2,92.93610706
+34800,McKinlay,4,40736.7989,Very Remote Australia,4,100
+34830,Mapoon,4,537.2366,Very Remote Australia,4,100
+34880,Mareeba,3.790662583,53491.0502,Very Remote Australia,4,88.48155799
+35740,Noosa,0.823276513,869.8657,Inner Regional Australia,1,82.32765127
+35250,Mornington,4,1247.6932,Very Remote Australia,4,100
+35300,Mount Isa,3.998428547,43715.1975,Very Remote Australia,4,99.84285465
+35600,Murweh,4,40699.7586,Very Remote Australia,4,100
+35790,Palm Island,3.218063473,71.9928,Remote Australia,3,78.1936527
+35800,Paroo,4,47614.9225,Very Remote Australia,4,100
+36070,Pormpuraaw,4,4395.3654,Very Remote Australia,4,100
+36150,Quilpie,4,67414.6563,Very Remote Australia,4,100
+36250,Redland,1.656435464,537.1672,Remote Australia,3,51.58719669
+36300,Richmond,4,26580.748,Very Remote Australia,4,100
+36660,Southern Downs,1.540966583,7106.436,Outer Regional Australia,2,54.0966583
+37300,Weipa,4,10.4643,Very Remote Australia,4,100
+37400,Winton,4,53813.4826,Very Remote Australia,4,100
+37600,Yarrabah,2,158.8381,Outer Regional Australia,2,100
+37570,Wujal Wujal,3,11.842,Remote Australia,3,100
+37550,Woorabinda,2.634066968,390.5578,Remote Australia,3,63.40669678
+39499,No usual address (Qld),null,null,No usual address (Qld),9,null
+39799,Migratory - Offshore - Shipping (Qld),null,null,Migratory - Offshore - Shipping (Qld),5,null
+40070,Adelaide,0,15.5733,Major Cities of Australia,0,100
+40120,Adelaide Hills,0.827947086,794.4957,Inner Regional Australia,1,82.79470864
+40220,Alexandrina,1,1826.8067,Inner Regional Australia,1,100
+40150,Adelaide Plains,1,932.4913,Inner Regional Australia,1,100
+40250,Anangu Pitjantjatjara Yunkunytjatjara,4,102348.117,Very Remote Australia,4,100
+40310,Barossa,0.956183277,893.5424,Inner Regional Australia,1,95.61832768
+40430,Barunga West,2,1590.3887,Outer Regional Australia,2,100
+40520,Berri Barmera,2,476.1962,Outer Regional Australia,2,100
+40700,Burnside,0,27.5183,Major Cities of Australia,0,100
+40910,Campbelltown (SA),0,24.3485,Major Cities of Australia,0,100
+41010,Ceduna,4,5420.3435,Very Remote Australia,4,100
+41060,Charles Sturt,0,54.7876,Major Cities of Australia,0,100
+41140,Clare and Gilbert Valleys,1.45350812,1892.4466,Inner Regional Australia,1,54.64918799
+41190,Cleve,2.897722631,5018.8483,Remote Australia,3,89.77226309
+41330,Coober Pedy,4,77.6795,Very Remote Australia,4,100
+41560,Copper Coast,2,772.9149,Outer Regional Australia,2,100
+41750,Elliston,3.666335703,6741.9317,Very Remote Australia,4,66.63357032
+41830,Flinders Ranges,2,4070.4827,Outer Regional Australia,2,100
+41960,Franklin Harbour,2.233151008,2755.5639,Outer Regional Australia,2,76.68489923
+42030,Gawler,0,41.1379,Major Cities of Australia,0,100
+42110,Goyder,1.943533478,6715.1418,Outer Regional Australia,2,94.35334783
+42250,Grant,2,1897.8235,Outer Regional Australia,2,100
+44620,Mount Gambier,2,33.8938,Outer Regional Australia,2,100
+42600,Holdfast Bay,0,13.752,Major Cities of Australia,0,100
+42750,Kangaroo Island,2.999943284,4400.863,Remote Australia,3,99.99716419
+43080,Karoonda East Murray,2,4415.796,Outer Regional Australia,2,100
+43220,Kimba,3,5697.1074,Remote Australia,3,100
+43360,Kingston (SA),2.685376756,3339.7952,Remote Australia,3,68.5376756
+48640,Wudinna,3.939770791,5075.2783,Very Remote Australia,4,93.97707905
+43650,Light,0.948372446,1276.8453,Inner Regional Australia,1,94.83724457
+43710,Lower Eyre Peninsula,3,4721.3922,Remote Australia,3,100
+43790,Loxton Waikerie,2,7763.8714,Outer Regional Australia,2,100
+44060,Marion,0,55.6406,Major Cities of Australia,0,100
+44210,Mid Murray,1.561482888,6271.6255,Outer Regional Australia,2,56.14828883
+44340,Mitcham,0,75.5468,Major Cities of Australia,0,100
+44000,Maralinga Tjarutja,4,105766.3105,Very Remote Australia,4,100
+44550,Mount Barker,0.90414193,594.6406,Inner Regional Australia,1,90.41419304
+44830,Mount Remarkable,2,3422.7733,Outer Regional Australia,2,100
+45040,Murray Bridge,1,1831.7597,Inner Regional Australia,1,100
+45090,Naracoorte Lucindale,2,4519.715,Outer Regional Australia,2,100
+45120,Northern Areas,2,2986.1818,Outer Regional Australia,2,100
+45290,Norwood Payneham and St Peters,0,15.1036,Major Cities of Australia,0,100
+45340,Onkaparinga,0.41280462,518.1255,Major Cities of Australia,0,58.71953803
+45400,Orroroo Carrieton,2,3321.8239,Outer Regional Australia,2,100
+45540,Peterborough,2,3020.142,Outer Regional Australia,2,100
+45680,Playford,0.453054688,345.2038,Major Cities of Australia,0,54.69453117
+45890,Port Adelaide Enfield,0,91.7588,Major Cities of Australia,0,100
+46090,Port Augusta,2,1157.9905,Outer Regional Australia,2,100
+46300,Port Lincoln,3,30.3681,Remote Australia,3,100
+46450,Port Pirie,2,1760.7097,Outer Regional Australia,2,100
+46510,Prospect,0,7.7915,Major Cities of Australia,0,100
+46670,Renmark Paringa,2,916.442,Outer Regional Australia,2,100
+46860,Robe,2,1091.7162,Outer Regional Australia,2,100
+46970,Roxby Downs,3,110.4778,Remote Australia,3,100
+47140,Salisbury,0,159.8432,Major Cities of Australia,0,100
+47290,Southern Mallee,2.844388635,5702.2024,Remote Australia,3,84.43886348
+47490,Streaky Bay,4,6222.8591,Very Remote Australia,4,100
+47630,Tatiara,2.415631953,6527.2342,Outer Regional Australia,2,58.43680467
+47700,Tea Tree Gully,0,95.2109,Major Cities of Australia,0,100
+47800,Coorong,2.009900521,8833.4339,Outer Regional Australia,2,90.61579665
+49399,Unincorporated SA,3.861529493,619426.0858,Very Remote Australia,4,86.25999777
+47910,Tumby Bay,3,2669.0794,Remote Australia,3,100
+47980,Unley,0,14.2703,Major Cities of Australia,0,100
+48050,Victor Harbor,1,384.6255,Inner Regional Australia,1,100
+48130,Wakefield,1.516975539,3468.4879,Outer Regional Australia,2,51.69755385
+48260,Walkerville,0,3.53,Major Cities of Australia,0,100
+48340,Wattle Range,2,3926.2101,Outer Regional Australia,2,100
+48410,West Torrens,0,37.0886,Major Cities of Australia,0,100
+48540,Whyalla,2,1071.3397,Outer Regional Australia,2,100
+48830,Yorke Peninsula,2.383689719,5899.6397,Outer Regional Australia,2,61.63102808
+48750,Yankalilla,1,751.2577,Inner Regional Australia,1,100
+49499,No usual address (SA),null,null,No usual address (SA),9,null
+49799,Migratory - Offshore - Shipping (SA),null,null,Migratory - Offshore - Shipping (SA),5,null
+50080,Albany,2.313882693,4308.458,Outer Regional Australia,2,68.61173069
+54130,Jerramungup,3,6511.1803,Remote Australia,3,100
+50210,Armadale,0.636613182,559.5258,Inner Regional Australia,1,63.66131821
+50250,Ashburton,4,100817.3112,Very Remote Australia,4,100
+54310,Karratha,3.971282972,15238.2934,Very Remote Australia,4,97.12829719
+50280,Augusta Margaret River,1.15630824,2122.375,Inner Regional Australia,1,84.36917604
+50350,Bassendean,0,10.3449,Major Cities of Australia,0,100
+50420,Bayswater,0,34.6169,Major Cities of Australia,0,100
+50490,Belmont,0,39.8246,Major Cities of Australia,0,100
+50560,Beverley,2,2370.5195,Outer Regional Australia,2,100
+50630,Boddington,1.130630418,1904.4791,Inner Regional Australia,1,86.93695825
+50770,Boyup Brook,2,2826.4585,Outer Regional Australia,2,100
+50840,Bridgetown-Greenbushes,1.990492545,1337.361,Outer Regional Australia,2,99.04925446
+50910,Brookton,2,1601.1532,Outer Regional Australia,2,100
+50980,Broome,3.995208148,54401.8236,Very Remote Australia,4,99.52081478
+52800,Derby-West Kimberley,4,119730.9696,Very Remote Australia,4,100
+51080,Broomehill-Tambellup,2,2609.6612,Outer Regional Australia,2,100
+51120,Bruce Rock,3,2724.6944,Remote Australia,3,100
+51190,Bunbury,1,65.4163,Inner Regional Australia,1,100
+51260,Busselton,1,1454.0509,Inner Regional Australia,1,100
+51310,Cambridge,0,21.9555,Major Cities of Australia,0,100
+57980,Subiaco,0,5.6182,Major Cities of Australia,0,100
+51330,Canning,0,64.8791,Major Cities of Australia,0,100
+51400,Capel,1,557.8983,Inner Regional Australia,1,100
+51470,Carnamah,3,2870.9316,Remote Australia,3,100
+51540,Carnarvon,4,46574.705,Very Remote Australia,4,100
+51610,Chapman Valley,2.786576321,3981.3333,Remote Australia,3,78.65763211
+51680,Chittering,1.568350423,1219.9032,Outer Regional Australia,2,56.83504232
+51750,Claremont,0,4.9554,Major Cities of Australia,0,100
+51820,Cockburn,0.344551525,167.9415,Major Cities of Australia,0,88.43841457
+51890,Collie,1,1709.815,Inner Regional Australia,1,100
+51960,Coolgardie,3.99625656,30297.6977,Very Remote Australia,4,99.81282802
+52030,Coorow,3,4189.8721,Remote Australia,3,100
+52100,Corrigin,3,2681.271,Remote Australia,3,100
+52170,Cottesloe ,0,3.8564,Major Cities of Australia,0,100
+52240,Cranbrook,2,3276.0464,Outer Regional Australia,2,100
+52310,Cuballing,2,1195.3369,Outer Regional Australia,2,100
+52380,Cue,4,13582.1956,Very Remote Australia,4,100
+52450,Cunderdin,2,1862.4457,Outer Regional Australia,2,100
+52520,Dalwallinu,3,7224.3566,Remote Australia,3,100
+52590,Dandaragan,2,6711.5721,Outer Regional Australia,2,100
+52660,Dardanup,1,525.8017,Inner Regional Australia,1,100
+53990,Harvey,1,1727.607,Inner Regional Australia,1,100
+52730,Denmark,2,1859.8487,Outer Regional Australia,2,100
+51710,Christmas Island,4,136.1356,Very Remote Australia,4,100
+52870,Donnybrook-Balingup,1,1559.856,Inner Regional Australia,1,100
+52940,Dowerin,2,1863.0851,Outer Regional Australia,2,100
+53010,Dumbleyung,3,2539.2249,Remote Australia,3,100
+53080,Dundas,4,92886.3668,Very Remote Australia,4,100
+53290,Esperance,3.765957803,44797.5456,Very Remote Australia,4,76.59578028
+53150,East Fremantle,0,3.1384,Major Cities of Australia,0,100
+53220,East Pilbara,4,372295.6721,Very Remote Australia,4,100
+53360,Exmouth,4,6488.2097,Very Remote Australia,4,100
+53430,Fremantle,0,19.2892,Major Cities of Australia,0,100
+51860,Cocos Islands,4,13.7258,Very Remote Australia,4,100
+53800,Greater Geraldton,2.822014142,9909.0002,Remote Australia,3,81.84992367
+53570,Gingin,1.727606189,3208.3585,Outer Regional Australia,2,72.76061886
+53640,Gnowangerup,2.914039493,4265.0423,Remote Australia,3,91.40394926
+53710,Goomalling,2,1835.4294,Outer Regional Australia,2,100
+53780,Gosnells,0,127.2976,Major Cities of Australia,0,100
+53920,Halls Creek,4,133045.9733,Very Remote Australia,4,100
+59340,Wyndham-East Kimberley,4,112066.3217,Very Remote Australia,4,100
+54060,Irwin,2,2369.3298,Outer Regional Australia,2,100
+54170,Joondalup,0,98.942,Major Cities of Australia,0,100
+54200,Kalamunda,0.548125199,324.2958,Inner Regional Australia,1,54.81251993
+54280,Kalgoorlie-Boulder,3.997849012,95500.292,Very Remote Australia,4,99.89245059
+54340,Katanning,2,1518.1854,Outer Regional Australia,2,100
+54410,Kellerberrin,2,1915.433,Outer Regional Australia,2,100
+54480,Kent,3,5624.5818,Remote Australia,3,100
+54550,Kojonup,2,2930.9925,Outer Regional Australia,2,100
+54620,Kondinin,3.699119581,7440.8016,Very Remote Australia,4,69.91195814
+54690,Koorda,3,2832.313,Remote Australia,3,100
+54760,Kulin,3,4718.9219,Remote Australia,3,100
+54830,Kwinana,0,120.0123,Major Cities of Australia,0,100
+54900,Lake Grace,3.61781592,11886.3198,Very Remote Australia,4,61.78159198
+54970,Laverton,4,179993.971,Very Remote Australia,4,100
+55040,Leonora,4,31915.0562,Very Remote Australia,4,100
+55110,Mandurah,0.464955905,174.8968,Major Cities of Australia,0,53.50440946
+55180,Manjimup,2.337794531,7029.6076,Outer Regional Australia,2,66.22054693
+55250,Meekatharra,4,100188.5478,Very Remote Australia,4,100
+55320,Melville,0,52.8505,Major Cities of Australia,0,100
+55390,Menzies,4,124115.424,Very Remote Australia,4,100
+55460,Merredin,2.764122487,3293.7824,Remote Australia,3,76.41224873
+55530,Mingenew,2,1934.8857,Outer Regional Australia,2,100
+55600,Moora,2.205429546,3763.0254,Outer Regional Australia,2,79.45704539
+55670,Morawa,3,3510.5929,Remote Australia,3,100
+55740,Mosman Park,0,4.3472,Major Cities of Australia,0,100
+55810,Mount Magnet,4,13858.1182,Very Remote Australia,4,100
+55880,Mount Marshall,3,10184.5937,Remote Australia,3,100
+55950,Mukinbudin,3,3426.944,Remote Australia,3,100
+56090,Mundaring,0.694221342,643.2012,Inner Regional Australia,1,69.42213416
+56160,Murchison,4,45046.0922,Very Remote Australia,4,100
+56230,Murray,0.940234244,1703.4688,Inner Regional Australia,1,94.02342444
+56300,Nannup,1.944097455,3053.9361,Outer Regional Australia,2,94.40974551
+56370,Narembeen,3,3809.0285,Remote Australia,3,100
+56460,Narrogin,2,1631.3024,Outer Regional Australia,2,100
+56580,Nedlands,0,19.6449,Major Cities of Australia,0,100
+57080,Perth,0,13.7335,Major Cities of Australia,0,100
+56620,Ngaanyatjarraku,4,159815.9632,Very Remote Australia,4,100
+56730,Northam,1,1431.2215,Inner Regional Australia,1,100
+56790,Northampton,2.941040868,12543.7142,Remote Australia,3,94.10408681
+56860,Nungarin,3,1166.0245,Remote Australia,3,100
+56930,Peppermint Grove,0,1.0677,Major Cities of Australia,0,100
+57000,Perenjori,3,8301.3551,Remote Australia,3,100
+58570,Vincent,0,11.3771,Major Cities of Australia,0,100
+57140,Pingelly,2,1294.5721,Outer Regional Australia,2,100
+57210,Plantagenet,2,4876.682,Outer Regional Australia,2,100
+57280,Port Hedland,3.99379123,18417.0777,Very Remote Australia,4,99.379123
+57350,Quairading,2,2016.9268,Outer Regional Australia,2,100
+57420,Ravensthorpe,3.835305405,9841.7504,Very Remote Australia,4,83.53054046
+57490,Rockingham,0.1155357,257.4979,Major Cities of Australia,0,88.44643005
+57630,Sandstone,4,32605.2912,Very Remote Australia,4,100
+57700,Serpentine-Jarrahdale,0.720315369,901.2054,Inner Regional Australia,1,72.03153687
+57770,Shark Bay,4,24201.5491,Very Remote Australia,4,100
+57840,South Perth,0,19.8114,Major Cities of Australia,0,100
+57910,Stirling,0,104.7273,Major Cities of Australia,0,100
+58050,Swan,0.635238414,1042.9936,Inner Regional Australia,1,63.52384137
+58190,Tammin,2,1101.692,Outer Regional Australia,2,100
+58260,Three Springs,3,2656.6928,Remote Australia,3,100
+58330,Toodyay,1.3510831,1691.6485,Inner Regional Australia,1,64.89168997
+58400,Trayning,3,1651.2043,Remote Australia,3,100
+58470,Upper Gascoyne,4,57809.8737,Very Remote Australia,4,100
+58510,Victoria Park,0,17.9396,Major Cities of Australia,0,100
+58540,Victoria Plains,2,2551.0132,Outer Regional Australia,2,100
+58610,Wagin,2,1946.1763,Outer Regional Australia,2,100
+58680,Wandering,2,1903.8645,Outer Regional Australia,2,100
+58760,Wanneroo,0.546176844,683.2602,Inner Regional Australia,1,54.61768445
+58820,Waroona,1,832.2285,Inner Regional Australia,1,100
+58890,West Arthur,2,2831.8272,Outer Regional Australia,2,100
+59030,Westonia,3,3319.4496,Remote Australia,3,100
+59100,Wickepin,2.59463501,2040.8985,Remote Australia,3,59.463501
+59170,Williams,2,2304.7119,Outer Regional Australia,2,100
+59250,Wiluna,4,181297.3382,Very Remote Australia,4,100
+59310,Wongan-Ballidu,2.61902256,3365.0675,Remote Australia,3,61.90225605
+59320,Woodanilling,2,1128.8348,Outer Regional Australia,2,100
+59330,Wyalkatchem,2,1594.4884,Outer Regional Australia,2,100
+59350,Yalgoo,4,27949.4641,Very Remote Australia,4,100
+59360,Yilgarn,3,30428.7648,Remote Australia,3,100
+59370,York,1,2131.5916,Inner Regional Australia,1,100
+59799,Migratory - Offshore - Shipping (WA),null,null,Migratory - Offshore - Shipping (WA),5,null
+59499,No usual address (WA),null,null,No usual address (WA),9,null
+60210,Break O'Day,2.103842014,3523.8858,Outer Regional Australia,2,89.61579856
+60410,Brighton,1,171.1508,Inner Regional Australia,1,100
+61510,Derwent Valley,2.586168807,4108.1113,Remote Australia,3,65.72717492
+60610,Burnie,2,610.9528,Outer Regional Australia,2,100
+60810,Central Coast (Tas.),2,933.0891,Outer Regional Australia,2,100
+61010,Central Highlands (Tas.),2.506517858,7982.4155,Remote Australia,3,50.65178579
+64210,Meander Valley,1.942248092,3330.8146,Outer Regional Australia,2,94.22480915
+61210,Circular Head,2.693976057,4897.6511,Remote Australia,3,69.39760572
+61410,Clarence,1.159395907,377.9614,Inner Regional Australia,1,84.06040934
+61610,Devonport,2,111.259,Outer Regional Australia,2,100
+61810,Dorset,2.015500323,3230.5456,Outer Regional Australia,2,98.44996771
+62010,Flinders (Tas.),4,1996.6244,Very Remote Australia,4,100
+62210,George Town,2,653.4308,Outer Regional Australia,2,100
+62410,Glamorgan-Spring Bay,2.567128802,2591.591,Remote Australia,3,56.71288023
+62610,Glenorchy,1,121.1632,Inner Regional Australia,1,100
+62810,Hobart,1,77.8965,Inner Regional Australia,1,100
+63010,Huon Valley,2.677188307,5507.3541,Remote Australia,3,68.04237992
+63210,Kentish,2,1156.1888,Outer Regional Australia,2,100
+63410,King Island,4,1095.7407,Very Remote Australia,4,100
+63610,Kingborough,1.616619172,720.1093,Outer Regional Australia,2,61.66191716
+63810,Latrobe (Tas.),2,600.4619,Outer Regional Australia,2,100
+64010,Launceston,1.816656063,1413.6306,Outer Regional Australia,2,81.66560628
+64610,Northern Midlands,1.946524206,5135.2505,Outer Regional Australia,2,94.65242056
+64810,Sorell,1.791553488,583.7723,Outer Regional Australia,2,79.15534875
+65010,Southern Midlands,1.979307003,2615.4935,Outer Regional Australia,2,97.93070027
+65210,Tasman,2,660.3947,Outer Regional Australia,2,100
+65410,Waratah-Wynyard,2,3535.9075,Outer Regional Australia,2,100
+65610,West Coast,3,9583.5388,Remote Australia,3,100
+65810,West Tamar,1.844874736,691.1537,Outer Regional Australia,2,84.48747363
+69799,Migratory - Offshore - Shipping (Tas.),null,null,Migratory - Offshore - Shipping (Tas.),5,null
+69499,No usual address (Tas.),null,null,No usual address (Tas.),9,null
+70200,Alice Springs,3,327.7132,Remote Australia,3,100
+70420,Barkly,4,322710.4145,Very Remote Australia,4,100
+71300,East Arnhem,4,33309.9334,Very Remote Australia,4,100
+70620,Central Desert,4,281338.022,Very Remote Australia,4,100
+70540,Belyuen,3,41.4054,Remote Australia,3,100
+72200,Katherine,3,7416.6444,Remote Australia,3,100
+73600,Roper Gulf,3.999998352,185213.4546,Very Remote Australia,4,99.99983516
+70700,Coomalie ,3,2056.0547,Remote Australia,3,100
+79399,Unincorporated NT,3.06776302,19792.8884,Remote Australia,3,92.21624217
+74560,Wagait,3,5.6628,Remote Australia,3,100
+74550,Victoria Daly,3.942602691,153287.3722,Very Remote Australia,4,94.26026914
+74680,West Daly,3.998518952,14069.698,Very Remote Australia,4,99.85189519
+71000,Darwin,2,111.2614,Outer Regional Australia,2,100
+74660,West Arnhem,3.679931687,49675.0342,Very Remote Australia,4,67.99316869
+72800,Palmerston,2,52.6559,Outer Regional Australia,2,100
+72300,Litchfield,2,2903.3391,Outer Regional Australia,2,100
+71150,Darwin Waterfront Precinct,2,0.7447,Outer Regional Australia,2,100
+72330,MacDonnell,3.841427216,268339.0281,Very Remote Australia,4,84.14272158
+74050,Tiwi Islands,3.998654527,7483.1661,Very Remote Australia,4,99.86545267
+79799,Migratory - Offshore - Shipping (NT),null,null,Migratory - Offshore - Shipping (NT),5,null
+79499,No usual address (NT),null,null,No usual address (NT),9,null
+89399,Unincorporated ACT,0.751472033,2358.133,Inner Regional Australia,1,75.14720332
+89799,Migratory - Offshore - Shipping (ACT),null,null,Migratory - Offshore - Shipping (ACT),5,null
+89499,No usual address (ACT),null,null,No usual address (ACT),9,null
+99399,Unincorp. Other Territories,2.095129797,105.8806,Inner Regional Australia,1,63.49567343
+99499,No usual address (OT),null,null,No usual address (OT),9,null
+99799,Migratory - Offshore - Shipping (OT),null,null,Migratory - Offshore - Shipping (OT),5,null
